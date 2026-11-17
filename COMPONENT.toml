@@ -3,7 +3,7 @@ name = "SigmaOS-ash2"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "ash2 component"
+description = "Ash Vulkan runtime compatibility layer for SigmaOS"
 upstream = []
 
 [contract]
